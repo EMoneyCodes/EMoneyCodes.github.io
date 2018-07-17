@@ -1,7 +1,10 @@
 <!DOCTYPE html>
+<html>
 <head>
- EMoney Worldwide
+ <title> EMoney Worldwide </title>
   </head>
+ <h1></h1>
+ <p></p>
   <body>
   </body>
   
