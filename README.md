@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title> EMoney Worldwide </title>
+ <title>EMoney Worldwide</title>
   </head>
  <h1></h1>
  <p></p>
